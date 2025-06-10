@@ -483,9 +483,6 @@ importers:
       '@types/validate-npm-package-name':
         specifier: 4.0.2
         version: 4.0.2
-      '@types/xmldoc':
-        specifier: 2.0.0
-        version: 2.0.0
       '@vitest/coverage-v8':
         specifier: 3.2.1
         version: 3.2.1(vitest@3.2.1(@types/debug@4.1.12)(@types/node@22.15.29)(tsx@4.19.4)(yaml@2.8.0))
@@ -2182,10 +2179,6 @@ packages:
 
   '@types/validate-npm-package-name@4.0.2':
     resolution: {integrity: sha512-lrpDziQipxCEeK5kWxvljWYhUvOiB2A9izZd9B2AFarYAkqZshb4lPbRs7zKEic6eGtH8V/2qJW+dPp9OtF6bw==}
-
-  '@types/xmldoc@2.0.0':
-    resolution: {integrity: sha512-ascOBEW+WtwqLGJBGam+EeijuAxiC7Pbj/r/pO9+MLbL/JI3axe2qqesLqIec3MD3Hoii6XkuV0RJOA0pDlUVQ==}
-    deprecated: This is a stub types definition. xmldoc provides its own type definitions, so you do not need this installed.
 
   '@types/yauzl@2.10.3':
     resolution: {integrity: sha512-oJoftv0LSuaDZE3Le4DbKX+KS9G36NzOeSap90UIK0yMA/NhKJhqlSGtNDORNRaIbQfzjXDrQa0ytJ6mNRGz/Q==}
@@ -8716,10 +8709,6 @@ snapshots:
   '@types/uuid@9.0.8': {}
 
   '@types/validate-npm-package-name@4.0.2': {}
-
-  '@types/xmldoc@2.0.0':
-    dependencies:
-      xmldoc: 2.0.1
 
   '@types/yauzl@2.10.3':
     dependencies:
