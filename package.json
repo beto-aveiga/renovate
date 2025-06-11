@@ -367,6 +367,9 @@
     ],
     "overrides": {
       "esbuild": "0.25.5"
+    },
+    "patchedDependencies": {
+      "xmldoc": "patches/xmldoc.patch"
     }
   }
 }
